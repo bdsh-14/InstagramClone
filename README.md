@@ -1,1 +1,1 @@
-An example of how instagram could have been implemented
+An example of how instagram login could have been implemented with Firebase backend
