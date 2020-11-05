@@ -2,8 +2,7 @@
 //  CommentCell.swift
 //  InstagramFirebase
 //
-//  Created by Brian Voong on 5/2/17.
-//  Copyright © 2017 Lets Build That App. All rights reserved.
+//  Created by Bidisha Biswas on 5/2/20.
 //
 
 import UIKit

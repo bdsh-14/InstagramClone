@@ -2,8 +2,7 @@
 //  HomePostCell.swift
 //  InstagramFirebase
 //
-//  Created by Brian Voong on 4/6/20.
-//  Copyright © 2017 Lets Build That App. All rights reserved.
+//  Created by Bidisha Biswason 4/6/20.
 //
 
 import UIKit

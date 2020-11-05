@@ -2,7 +2,7 @@
 //  LoginController.swift
 //  InstagramFirebase
 //
-//  Created by Brian Voong on 3/24/20.
+//  Created by Bidisha Biswas on 3/24/20.
 //
 
 import UIKit

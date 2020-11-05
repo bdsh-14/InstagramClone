@@ -2,8 +2,7 @@
 //  PhotoSelectorCell.swift
 //  InstagramFirebase
 //
-//  Created by Brian Voong on 3/30/17.
-//  Copyright © 2017 Lets Build That App. All rights reserved.
+//  Created by Bidisha Biswas on 3/30/20.
 //
 
 import UIKit

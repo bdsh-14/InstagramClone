@@ -3,7 +3,6 @@
 //  InstagramFirebase
 //
 //  Created by Bidisha Biswas on 4/4/19.
-//  Copyright © 2017 Lets Build That App. All rights reserved.
 //
 
 import Foundation

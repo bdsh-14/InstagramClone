@@ -2,8 +2,7 @@
 //  UserSearchController.swift
 //  InstagramFirebase
 //
-//  Created by Brian Voong on 4/13/17.
-//  Copyright © 2017 Lets Build That App. All rights reserved.
+//  Created by Bidisha Biswas on 4/13/20.
 //
 
 import UIKit

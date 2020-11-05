@@ -2,8 +2,7 @@
 //  CustomAnimationPresentor.swift
 //  InstagramFirebase
 //
-//  Created by Brian Voong on 4/29/17.
-//  Copyright © 2017 Lets Build That App. All rights reserved.
+//  Created by Bidisha Biswas on 4/29/20.
 //
 
 import UIKit
